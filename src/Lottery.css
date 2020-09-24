@@ -1,0 +1,23 @@
+.lottery {
+  height: 200px;
+  width: 600px;
+  border: 1px solid #000;
+  margin: 40px;
+  padding: 20px;
+  border-radius: 10px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  margin-top: 40px;
+  background-color: slateblue;
+  color: #fff;
+  border-radius: 4px;
+}
+button:focus {
+  outline: none;
+  border: none;
+}
